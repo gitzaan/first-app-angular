@@ -84,7 +84,7 @@ first-app-angular-main/
 ## Contributors
 - **Your Name**  
   Role: Developer  
-  Contact: [Your Email](mailto:your.email@example.com)
+  Contact: [Your Email](mailto:fowzaan.rasheed@gmail.com)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
